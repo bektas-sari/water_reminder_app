@@ -1,4 +1,4 @@
-# Water Reminder App 🚰
+# Water Reminder App 🚰 (Flutter APP)
 
 Stay hydrated and track your daily water intake effortlessly with the Water Reminder App!  
 Built with Flutter, this lightweight app helps you monitor your daily water consumption in a simple and intuitive way.
