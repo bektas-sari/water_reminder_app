@@ -53,10 +53,8 @@ All kinds of contributions are welcome.
 ## License 📄
 
 This project is licensed under the MIT License.  
-See the [LICENSE](LICENSE) file for more details.
 
 ---
 
-Made with ❤️ using Flutter
-
-"A simple and clean Flutter app to track your daily water intake. Stay hydrated with an easy-to-use interface and smooth performance. Perfect for learning Flutter basics and building healthy habits!"
+## Contact
+Email: bektas.sari@gmail.com
