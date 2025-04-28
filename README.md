@@ -10,10 +10,6 @@ Built with Flutter, this lightweight app helps you monitor your daily water cons
 - Responsive and smooth performance
 - Easy to customize and expand
 
-## Screenshots 📸
-
-*(Add screenshots here if available)*
-
 ## Getting Started 🚀
 
 To run this project locally:
