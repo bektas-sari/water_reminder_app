@@ -17,7 +17,7 @@ To run this project locally:
 1. Make sure you have Flutter installed. [Flutter Installation Guide](https://docs.flutter.dev/get-started/install)
 2. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/water_reminder_app.git
+   git clone https://github.com/bektas-sari/water_reminder_app.git
    ```
 3. Navigate into the project directory:
    ```bash
@@ -43,7 +43,6 @@ To run this project locally:
 ```
 lib/
  ├── main.dart        # Main entry point of the app
- └── (Add your additional screens and widgets here)
 ```
 
 ## Contributing 🤝
